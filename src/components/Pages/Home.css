@@ -1,0 +1,31 @@
+.frente {
+    display: flex;
+    flex-direction: row;
+}
+.portada{
+    width: 50%;
+    height: 300px;   
+    margin-left: 400px;
+    margin-top: 120px;
+   opacity: 0.8;
+}
+
+
+.btn1 {
+    width: 400px;
+    height:100px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 250px;
+    background-color: rgba(17, 19, 18, 0);
+    color: white;
+    font-size: 290%;
+}
+article {
+    background-image: url(https://vinosybuenvivir.com/wp-content/uploads/2018/04/Frente-Trapiche-Bodega.jpg);
+    background-size: cover;
+    height: 700px;
+}
+

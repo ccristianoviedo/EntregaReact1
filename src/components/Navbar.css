@@ -1,0 +1,22 @@
+.menu {
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    border: white solid 2px;      
+}
+.menua {
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-left: 10px;
+    margin-top: 30px;
+    text-decoration: none;   
+}
+li a {
+    text-decoration: none;   
+    color: white;
+    font-size: 120%;
+
+}
